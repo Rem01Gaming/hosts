@@ -50,6 +50,39 @@
 0.0.0.0 funpavo.com
 0.0.0.0 safepavo.com
 
+0.0.0.0 10098.apac.b.svr-algorix.com                                           euc-cr.svr-algorix.com
+0.0.0.0 pivot.svr-algorix.com
+0.0.0.0 d-s.svr-algorix.com                                                    euc.b.svr-algorix.com
+0.0.0.0 global.b.svr-algorix.com
+0.0.0.0 ssp.svr-algorix.com
+0.0.0.0 trk.svr-algorix.com
+0.0.0.0 use02.trk.svr-algorix.com                                              euc.xyz.svr-algorix.com
+0.0.0.0 b.svr-algorix.com
+0.0.0.0 s.edge.svr-algorix.com
+0.0.0.0 post.edge.svr-algorix.com
+0.0.0.0 euc.trk.svr-algorix.com
+0.0.0.0 apac.trk.svr-algorix.com
+0.0.0.0 static.svr-algorix.com
+0.0.0.0 use.b.svr-algorix.com                                                  apse.b.svr-algorix.com
+0.0.0.0 a.svr-algorix.com
+0.0.0.0 doc.svr-algorix.com
+0.0.0.0 use-cr.svr-algorix.com
+0.0.0.0 edge.svr-algorix.com
+0.0.0.0 10098.use.b.svr-algorix.com
+0.0.0.0 ww0.svr-algorix.com
+0.0.0.0 9528.use.b.svr-algorix.com
+0.0.0.0 buyer.svr-algorix.com
+0.0.0.0 use.trk.svr-algorix.com
+0.0.0.0 xyz.svr-algorix.com
+0.0.0.0 apac.xyz.svr-algorix.com
+0.0.0.0 use.a.svr-algorix.com
+0.0.0.0 apac.b.svr-algorix.com
+0.0.0.0 euc.a.svr-algorix.com
+0.0.0.0 apse-cr.svr-algorix.com
+0.0.0.0 euw.trk.svr-algorix.com
+0.0.0.0 use.xyz.svr-algorix.com
+0.0.0.0 sapi.svr-algorix.com
+
 0.0.0.0 pubnative.net
 0.0.0.0 dsp.andromeda.pubnative.net
 0.0.0.0 ap.api.pubnative.net
