@@ -40,6 +40,7 @@
 0.0.0.0 p16-ttam-va.ibyteimg.com
 0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 ad-host-backup-america.s3.us-west-1.amazonaws.com
+0.0.0.0 ad-host-backup-europe.s3.eu-central-1.amazonaws.com
 0.0.0.0 api.dollphoin.site
 0.0.0.0 www.tttturbonet.com
 0.0.0.0 tttturbonet.com
@@ -2909,6 +2910,7 @@
 0.0.0.0 res4.applovin.com
 
 0.0.0.0 mtgglobals.com
+0.0.0.0 cdn-adn-https.mtgglobals.com
 0.0.0.0 mtg-h5-h2-akamai.mtgglobals.com
 0.0.0.0 vi-h3-akamai.mtgglobals.com
 0.0.0.0 analytics-ios-tcp.mtgglobals.com
@@ -3146,6 +3148,7 @@
 0.0.0.0 0zxdx8-cdn-settings.appsflyersdk.com
 0.0.0.0 4e7iqs-launches.appsflyersdk.com
 0.0.0.0 a2tnxf-launches.appsflyersdk.com
+0.0.0.0 a2tnxf-cdn-settings.appsflyersdk.com
 0.0.0.0 dlsdk.appsflyersdk.com
 0.0.0.0 0dvqex-cdn-settings.appsflyersdk.com
 0.0.0.0 1kfunl-cdn-settings.appsflyersdk.com
@@ -4133,7 +4136,9 @@
 0.0.0.0 help.taboola.com
 0.0.0.0 t6.taboola.com
 
+0.0.0.0 rayjump.com
 0.0.0.0 cdn-adn-https.rayjump.com
+0.0.0.0 configure-tcp.rayjump.com
 0.0.0.0 bj-new-hb.rayjump.com
 0.0.0.0 configure.rayjump.com
 0.0.0.0 or-gcp-adx-us-west1-b-ssp-tk.rayjump.com
