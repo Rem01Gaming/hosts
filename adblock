@@ -31,7 +31,6 @@
 0.0.0.0 sin3-ib.adnxs.com
 0.0.0.0 adnxs.com
 0.0.0.0 zirzifpa.com
-0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 tnc16-useast1a.byteoversea.com
 0.0.0.0 sf-tk-sg.ibytedtos.com
@@ -45,11 +44,19 @@
 0.0.0.0 www.tttturbonet.com
 0.0.0.0 tttturbonet.com
 0.0.0.0 issuepcdn.freeterabox.com
+0.0.0.0 startseite24.net
+0.0.0.0 t101.cn
 0.0.0.0 api.inmense.site
 0.0.0.0 pavoboxapp.com
 0.0.0.0 pavoshare.com
 0.0.0.0 funpavo.com
 0.0.0.0 safepavo.com
+
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 ae.iads.unity3d.com
+0.0.0.0 c.iads.unity3d.com
+0.0.0.0 icon-uap.iads.unity3d.com
+0.0.0.0 o-pxt.iads.unity3d.com
 
 0.0.0.0 creativecdn.com
 0.0.0.0 asia.creativecdn.com
@@ -3269,6 +3276,7 @@
 0.0.0.0 jaeger.vungle.com
 0.0.0.0 logging.vungle.com
 
+0.0.0.0 fa4lut-cdn-settings.appsflyersdk.com
 0.0.0.0 4ng01p-cdn-settings.appsflyersdk.com
 0.0.0.0 0zxdx8-cdn-settings.appsflyersdk.com
 0.0.0.0 4e7iqs-launches.appsflyersdk.com
