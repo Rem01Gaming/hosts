@@ -52,6 +52,11 @@
 0.0.0.0 funpavo.com
 0.0.0.0 safepavo.com
 
+0.0.0.0 liftoff-creatives.io
+0.0.0.0 cdn-a.liftoff-creatives.io
+0.0.0.0 cdn.liftoff-creatives.io
+0.0.0.0 product-cdn.liftoff-creatives.io
+
 0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 c.iads.unity3d.com
