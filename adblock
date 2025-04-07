@@ -36,6 +36,7 @@
 0.0.0.0 sf-tk-sg.ibytedtos.com
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 p16-ttam-va.ibyteimg.com
+0.0.0.0 engagements.appsflyer.com
 0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 ad-host-backup-america.s3.us-west-1.amazonaws.com
 0.0.0.0 ad-host-backup-europe.s3.eu-central-1.amazonaws.com
@@ -3281,6 +3282,8 @@
 0.0.0.0 jaeger.vungle.com
 0.0.0.0 logging.vungle.com
 
+0.0.0.0 2gbelh-cdn-settings.appsflyersdk.com
+0.0.0.0 2gbelh-launches.appsflyersdk.com
 0.0.0.0 fa4lut-cdn-settings.appsflyersdk.com
 0.0.0.0 4ng01p-cdn-settings.appsflyersdk.com
 0.0.0.0 0zxdx8-cdn-settings.appsflyersdk.com
