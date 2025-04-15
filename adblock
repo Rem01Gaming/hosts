@@ -41,6 +41,8 @@
 0.0.0.0 ad-host-backup-america.s3.us-west-1.amazonaws.com
 0.0.0.0 ad-host-backup-europe.s3.eu-central-1.amazonaws.com
 0.0.0.0 ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com
+0.0.0.0 d1tru86qrby720.cloudfront.net
+0.0.0.0 api.revenuads.com
 0.0.0.0 api.dollphoin.site
 0.0.0.0 www.tttturbonet.com
 0.0.0.0 tttturbonet.com
@@ -102,6 +104,7 @@
 0.0.0.0 eus-bid.bluevoox.com
 0.0.0.0 use-trk.bluevoox.com
 0.0.0.0 sg-trk.bluevoox.com
+0.0.0.0 sg-trk2.bluevoox.com
 0.0.0.0 im.bluevoox.com
 
 0.0.0.0 us7.remerge.events
