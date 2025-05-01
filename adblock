@@ -55,6 +55,16 @@
 0.0.0.0 pavoshare.com
 0.0.0.0 funpavo.com
 0.0.0.0 safepavo.com
+0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 go.rcvlink.com
+0.0.0.0 st50.rcrtv.net
+0.0.0.0 beacons2.gvt2.com
+
+0.0.0.0 api16-log-sg.pangle-b.io
+0.0.0.0 api16-access-gcp.pangle-b.io
+0.0.0.0 api31-log-sg.pangle-b.io
+0.0.0.0 api16-access-sg.pangle-b.io
 
 0.0.0.0 sdk-files.smaato.net
 0.0.0.0 soma.smaato.net
@@ -3575,6 +3585,7 @@
 0.0.0.0 jaeger.vungle.com
 0.0.0.0 logging.vungle.com
 
+0.0.0.0 q7r6g2-launches.appsflyersdk.com
 0.0.0.0 2gbelh-cdn-settings.appsflyersdk.com
 0.0.0.0 2gbelh-launches.appsflyersdk.com
 0.0.0.0 fa4lut-cdn-settings.appsflyersdk.com
